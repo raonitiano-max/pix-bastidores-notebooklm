@@ -248,3 +248,17 @@ O estudo demonstrou como conceitos de:
 são fundamentais para o funcionamento do sistema financeiro moderno.
 
 Além disso, o projeto evidenciou como ferramentas de IA, como o NotebookLM, podem auxiliar na organização do conhecimento, refinamento de estudos técnicos e desenvolvimento de pensamento crítico.
+
+Capturas do Projeto
+
+Fontes Utilizadas
+
+![Fontes](./Captura de tela 2026-05-11 023333.png)
+
+Prompt Técnico
+
+![Prompt](./Captura de tela 2026-05-11 023352.pngg)
+
+Refinamento de Prompt Técnico
+
+![Refinamento](./Captura de tela 2026-05-11 023502.png)
