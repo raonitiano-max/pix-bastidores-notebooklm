@@ -251,14 +251,14 @@ Além disso, o projeto evidenciou como ferramentas de IA, como o NotebookLM, pod
 
 Capturas do Projeto
 
-Fontes Utilizadas
+Prompt Inicial
 
-![Fontes](./Captura de tela 2026-05-11 023333.png)
+![Inicial](./prompt.png)
 
 Prompt Técnico
 
-![Prompt](./Captura de tela 2026-05-11 023352.pngg)
+![Prompt](./refinamento.png)
 
-Refinamento de Prompt Técnico
+Segurança Anti-Fraudde
 
-![Refinamento](./Captura de tela 2026-05-11 023502.png)
+![Segurança](./seguranca.png)
